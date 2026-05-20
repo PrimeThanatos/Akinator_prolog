@@ -93,9 +93,11 @@ personaje(phil, [masculino, monstruo, disney, mitologia_griega, magico, entrenad
 personaje(sttich, [masculino, monstruo, disney, original, protagonista, magico, alienigena]).
 personaje(mrs_potts, [femenino, objeto, disney, cuento_beaumont, magico, tetera]).
 personaje(cogsworth, [masculino, objeto, disney, cuento_beaumont, magico, reloj]).
-personaje(eeyore, [masculino, juguete, disney, libros_milne, magico, pesimista, mejor_amigo_protagonista]).
-personaje(lumiere, [masculino, objeto, disney, cuento_beaumont, vela]).
-personaje(mr_potatohead, [masculino, juguete, disney, original, modelo_3d, piezas_intercambiables]).
+
+
+personaje(eeyore, [masculino, juguete, disney, libros_milne, pesimista, mejor_amigo_protagonista]).
+personaje(lumiere, [masculino, objeto, disney, cuento_beaumont, magico, vela]).
+personaje(mr_potatohead, [masculino, juguete, pixar, original, modelo_3d, piezas_intercambiables]).
 personaje(piglet, [masculino, juguete, disney, libros_milne, cerdo, mejor_amigo_protagonista]).
 personaje(pinnochio, [masculino, objeto, disney, novela_collodi, protagonista, magico]).
 personaje(rabbit, [masculino, juguete, disney, libros_milne, mejor_amigo_protagonista, come_zanahorias]).
