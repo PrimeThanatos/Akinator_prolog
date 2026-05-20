@@ -135,8 +135,6 @@ buscar(Lista) :-
     obtener_caracteristica_util(Lista, C),
     preguntar(C),
     filtrar_personajes(Lista, C, NuevaLista),
-    write('Posibles personajes restantes: '),
-    write(NuevaLista), nl,
     buscar(NuevaLista).
 
 obtener_caracteristica_util(Lista, C) :-member(A, Lista),personaje(A, Caracteristicas),member(C, Caracteristicas),not(respuesta(C, _)),sirve_para_dividir(Lista, C),!.
@@ -160,11 +158,7 @@ preguntar(C) :-
     write(C),
     write('"? (si/no): '),
     read(R),
-    assert(respuesta(C, R)),
-    write('Respuesta guardada: '),
-    write(C),
-    write(' = '),
-    write(R), nl.
+    assert(respuesta(C, R)).
 
 filtrar_personajes([], _, []).
 
