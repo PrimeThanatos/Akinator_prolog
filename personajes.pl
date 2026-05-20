@@ -58,7 +58,7 @@ personaje(genie, [masculino, criatura_magica, disney, mil_y_una_noches, magico, 
 personaje(alice, [femenino, humano, disney, novela_lewis_carroll, protagonista, cabello_rubio]).
 personaje(ariel, [femenino, humano, disney, cuento_andersen, protagonista, magico, realeza, usa_cara_seductora]).
 personaje(aurora, [femenino, humano, disney, cuento_perrault, protagonista, realeza, cabello_rubio, maleficio_sueno]).
-personaje(belle, [femenino, humano, disney, cuento_barbot, lee_libros]).
+personaje(belle, [femenino, humano, disney, cuento_beaumont, lee_libros]).
 personaje(cinderella, [femenino, humano, disney, cuento_perrault, protagonista, realeza, cabello_rubio, zapatilla_cristal]).
 personaje(esmeralda, [femenino, humano, disney, novela_hugo, usa_cara_seductora]).
 personaje(jane, [femenino, humano, disney, novela_burroughs, selva]).
