@@ -34,6 +34,36 @@ personaje(pluto, [masculino, animal, disney, original, canino]).
 personaje(pumba, [masculino, animal, disney, original, cerdo]).
 personaje(rafiki, [masculino, animal, disney, original, magico, mono]).
 personaje(robin_hood, [masculino, animal, disney, folclore_ingles, protagonista]).
+personaje(scuttle, [masculino, animal, disney, cuento_andersen, ave, puede_volar]).
+personaje(sebastian, [masculino, animal, disney, cuento_andersen, valiente]).
+personaje(simba, [masculino, animal, disney, original, protagonista, realeza, valiente]).
+personaje(thumper, [masculino, animal, disney, novela_felix_salten, mejor_amigo_protagonista, le_gusta_saltar, come_zanahorias]).
+personaje(timon, [masculino, animal, disney, original, mejor_amigo_protagonista]).
+personaje(toulouse, [masculino, animal, disney, original, es_un_felino, valiente]).
+personaje(tramp, [masculino, animal, disney, relato_ward_greene, protagonista, valiente]).
+personaje(white_rabbit, [masculino, animal, disney, novela_lewis_carroll, le_gusta_saltar, come_zanahorias]).
+personaje(bashful, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, es_timido]).
+personaje(doc, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, lider]).
+personaje(dopey, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, mudo]).
+personaje(grumpy, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, valiente]).
+personaje(happy, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, es_alegre]).
+personaje(sleepy, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, tiene_sueno_constante]).
+personaje(sneezy, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, se_la_pas_estornudando]).
+personaje(fairy_godmother, [femenino, criatura_magica, disney, cuento_perrault, magico, puede_volar, ayuda_a_la_princesa]).
+personaje(fauna, [femenino, criatura_magica, disney, cuento_perrault, magico, puede_volar, valiente, vestido_verde]).
+personaje(flora, [femenino, criatura_magica, disney, cuento_perrault, magico, puede_volar, valiente, vestido_rosa]).
+personaje(merriweather, [femenino, criatura_magica, disney, cuento_perrault, magico, puede_volar, valiente, vestido_azul]).
+personaje(tinkerbell, [femenino, criatura_magica, disney, novela_barrie, magico, puede_volar, usa_cara_seductora]).
+personaje(genie, [masculino, criatura_magica, disney, mil_y_una_noches, magico, puede_volar, valiente, mejor_amigo_protagonista]).
+personaje(alice, [femenino, humano, disney, novela_lewis_carroll, protagonista, cabello_rubio]).
+personaje(ariel, [femenino, humano, disney, cuento_andersen, protagonista, magico, realeza, usa_cara_seductora]).
+personaje(aurora, [femenino, humano, disney, cuento_perrault, protagonista, realeza, cabello_rubio, maleficio_sueno]).
+personaje(belle, [femenino, humano, disney, cuento_barbot, lee_libros]).
+personaje(cinderella, [femenino, humano, disney, cuento_perrault, protagonista, realeza, cabello_rubio, zapatilla_cristal]).
+personaje(esmeralda, [femenino, humano, disney, novela_hugo, usa_cara_seductora]).
+personaje(jane, [femenino, humano, disney, novela_burroughs, selva]).
+personaje(jasmine, [femenino, humano, disney, mil_y_una_noches, realeza]).
+personaje(lilo, [femenino, humano, disney, original, protagonista, ukelele]).
 personaje(meg, [femenino, humano, disney, mitologia_griega, secundario, contrato]).
 personaje(mulan, [femenino, humano, disney, leyenda, protagonista, guerrero, espada]).
 personaje(pocahontas, [femenino, humano, disney, leyenda, protagonista, realeza, brujula]).
@@ -93,36 +123,6 @@ personaje(mcqueen, [masculino, objeto, pixar, original, protagonista, modelo_3d,
 personaje(rex, [masculino, juguete, pixar, original, modelo_3d]).
 personaje(slinky, [masculino, juguete, pixar, original, modelo_3d, resorte]).
 personaje(woody, [masculino, juguete, pixar, original, protagonista, modelo_3d, vaquero]).
-personaje(scuttle, [masculino, animal, disney, cuento_andersen, ave, puede_volar]).
-personaje(sebastian, [masculino, animal, disney, cuento_andersen, valiente]).
-personaje(simba, [masculino, animal, disney, original, protagonista, realeza, valiente]).
-personaje(thumper, [masculino, animal, disney, novela_felix_salten, mejor_amigo_protagonista, le_gusta_saltar, come_zanahorias]).
-personaje(timon, [masculino, animal, disney, original, mejor_amigo_protagonista]).
-personaje(toulouse, [masculino, animal, disney, original, es_un_felino, valiente]).
-personaje(tramp, [masculino, animal, disney, relato_ward_greene, protagonista, valiente]).
-personaje(white_rabbit, [masculino, animal, disney, novela_lewis_carroll, le_gusta_saltar, come_zanahorias]).
-personaje(bashful, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, es_timido]).
-personaje(doc, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, lider]).
-personaje(dopey, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, mudo]).
-personaje(grumpy, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, valiente]).
-personaje(happy, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, es_alegre]).
-personaje(sleepy, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, tiene_sueno_constante]).
-personaje(sneezy, [masculino, enano, disney, hermanos_grimm, mejor_amigo_protagonista, se_la_pas_estornudando]).
-personaje(fairy_godmother, [femenino, criatura_magica, disney, cuento_perrault, magico, puede_volar, superpoderes]).
-personaje(fauna, [femenino, criatura_magica, disney, cuento_perrault, magico, puede_volar, valiente, vestido_verde]).
-personaje(flora, [femenino, criatura_magica, disney, cuento_perrault, magico, puede_volar, valiente, vestido_rosa]).
-personaje(merriweather, [femenino, criatura_magica, disney, cuento_perrault, magico, puede_volar, valiente, vestido_azul]).
-personaje(tinkerbell, [femenino, criatura_magica, disney, novela_barrie, magico, puede_volar, usa_cara_seductora]).
-personaje(genie, [masculino, criatura_magica, disney, mil_y_una_noches, magico, puede_volar, valiente, mejor_amigo_protagonista]).
-personaje(alice, [femenino, humano, disney, novela_de_lewis_carroll, protagonista, cabello_rubio]).
-personaje(ariel, [femenino, humano, disney, cuento_de_andersen, protagonista, magico, realeza, usa_cara_seductora]).
-personaje(aurora, [femenino, humano, disney, cuento_de_charles_perrault, protagonista, realeza, cabello_rubio]).
-personaje(belle, [femenino, humano, disney, cuento_de_barbot, lee_libros]).
-personaje(cinderella, [femenino, humano, disney, cuento_de_charles_perrault, protagonista, realeza, cabello_rubio]).
-personaje(esmeralda, [femenino, humano, disney, novela_de_victor_hugo, usa_cara_seductora]).
-personaje(jane, [femenino, humano, disney, novela_de_edgar_burroughs]).
-personaje(jasmine, [femenino, humano, disney, las_mil_y_una_noches, realeza]).
-personaje(lilo, [femenino, humano, disney, original, protagonista, ukelele]).
 
 adivinar :-
     limpiar_respuestas, 
