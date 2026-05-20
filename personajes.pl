@@ -124,7 +124,7 @@ personaje(jane, [femenino, humano, disney, novela_de_edgar_burroughs]).
 personaje(jasmine, [femenino, humano, disney, las_mil_y_una_noches, realeza]).
 personaje(lilo, [femenino, humano, disney, original, protagonista, ukelele]).
 
-adivinar :- 
+adivinar :-
     limpiar_respuestas, 
 buscar([daisy_duck, dutchess, flower, lady, maid_marian, marie, minnie_mouse, nala, ray, bagheera, baloo, bambi, berlioz, cheshire_cat, donald_duck, dumbo, flounder, goofy, gus, jaq, jiminy_cricket, little_john, louis, mickey_mouse, mushu, o_malley, pegasus, pluto, pumba, rafiki, robin_hood, meg, mulan, pocahontas, rapunzel, snow_white, tiana, vanelope, wendy, aladin, eric, eugene, felix, hercules, john, john_smith, michael, moglie, peter_pan, prince_navene, prince_phillip, quasimodo, ralph, shang, tarzan, beast, phil, sttich, mrs_potts, cogsworth, eeyore, lumiere, mr_potatohead, piglet, pinnochio, rabbit, tigger, winnie_the_pooh, boys, zazu, boo, elasticgirl, elinor, merida, violet, dash, jack_jack, mr_incredible, mike, sully, jesse, sally, bullseye, buzz_lightyear, ham, mater, mcqueen, rex, slinky, woody, scuttle, sebastian, simba, thumper, timon, toulouse, tramp, white_rabbit, bashful, doc, dopey, grumpy, happy, sleepy, sneezy, fairy_godmother, fauna, flora, merriweather, tinkerbell, genie, alice, ariel, aurora, belle, cinderella, esmeralda, jane, jasmine, lilo]).
 buscar([Personaje]) :- write('El personaje es: '),write(Personaje), nl, !.
