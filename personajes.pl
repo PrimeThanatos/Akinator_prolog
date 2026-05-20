@@ -64,35 +64,35 @@ personaje(esmeralda, [femenino, humano, disney, novela_hugo, usa_cara_seductora]
 personaje(jane, [femenino, humano, disney, novela_burroughs, selva]).
 personaje(jasmine, [femenino, humano, disney, mil_y_una_noches, realeza]).
 personaje(lilo, [femenino, humano, disney, original, protagonista, ukelele]).
-personaje(meg, [femenino, humano, disney, mitologia_griega, secundario, contrato]).
+personaje(meg, [femenino, humano, disney, mitologia_griega, contrato]).
 personaje(mulan, [femenino, humano, disney, leyenda, protagonista, guerrero, espada]).
 personaje(pocahontas, [femenino, humano, disney, leyenda, protagonista, realeza, brujula]).
 personaje(rapunzel, [femenino, humano, disney, hermanos_grimm, protagonista, magico, realeza, sarten]).
 personaje(snow_white, [femenino, humano, disney, hermanos_grimm, protagonista, realeza, manzana]).
 personaje(tiana, [femenino, humano, disney, leyenda, protagonista, realeza, humilde]).
 personaje(vanelope, [femenino, humano, disney, original, protagonista, magico, realeza, videojuego]).
-personaje(wendy, [femenino, humano, disney, novela_barrie, secundario, dedal]).
+personaje(wendy, [femenino, humano, disney, novela_barrie, dedal]).
 personaje(aladin, [masculino, humano, disney, mil_y_una_noches, protagonista, realeza, lampara]).
 personaje(eric, [masculino, humano, disney, cuento_andersen, realeza, marinero]).
 personaje(eugene, [masculino, humano, disney, hermanos_grimm, protagonista, realeza, corona]).
-personaje(felix, [masculino, humano, disney, original, secundario, magico, martillo]).
+personaje(felix, [masculino, humano, disney, original, magico, martillo]).
 personaje(hercules, [masculino, humano, disney, mitologia_griega, protagonista, magico, realeza, fuerza]).
-personaje(john, [masculino, humano, disney, cuento_beaumont, secundario, chistera]).
-personaje(john_smith, [masculino, humano, disney, leyenda, secundario, guerrero, mosquete]).
-personaje(michael, [masculino, humano, disney, novela_barrie, secundario, peluche]).
+personaje(john, [masculino, humano, disney, cuento_beaumont, chistera]).
+personaje(john_smith, [masculino, humano, disney, leyenda, guerrero, mosquete]).
+personaje(michael, [masculino, humano, disney, novela_barrie, peluche]).
 personaje(moglie, [masculino, humano, disney, novela_kipling, protagonista, salvaje]).
 personaje(peter_pan, [masculino, humano, disney, novela_barrie, protagonista, magico, polvo_hadas]).
 personaje(prince_navene, [masculino, humano, disney, novela_baker, realeza, ukelele]).
 personaje(prince_phillip, [masculino, humano, disney, cuento_perrault, realeza, guerrero, espada]).
 personaje(quasimodo, [masculino, humano, disney, novela_hugo, protagonista, campanas]).
 personaje(ralph, [masculino, humano, disney, original, protagonista, fuerza, videojuego]).
-personaje(shang, [masculino, humano, disney, leyenda, secundario, guerrero, espada]).
+personaje(shang, [masculino, humano, disney, leyenda, guerrero, espada]).
 personaje(tarzan, [masculino, humano, disney, novela_burroughs, protagonista, salvaje]).
 personaje(beast, [masculino, monstruo, disney, cuento_beaumont, protagonista, magico, realeza, rosa]).
-personaje(phil, [masculino, monstruo, disney, mitologia_griega, secundario, magico, entrenador]).
+personaje(phil, [masculino, monstruo, disney, mitologia_griega, magico, entrenador]).
 personaje(sttich, [masculino, monstruo, disney, original, protagonista, magico, alienigena]).
-personaje(mrs_potts, [femenino, objeto, disney, cuento_beaumont, magico, secundario, tetera]).
-personaje(cogsworth, [masculino, objeto, disney, cuento_beaumont, magico, secundario, reloj]).
+personaje(mrs_potts, [femenino, objeto, disney, cuento_beaumont, magico, tetera]).
+personaje(cogsworth, [masculino, objeto, disney, cuento_beaumont, magico, reloj]).
 personaje(eeyore, [masculino, juguete, disney, libros_milne, magico, pesimista, mejor_amigo_protagonista]).
 personaje(lumiere, [masculino, objeto, disney, cuento_beaumont, vela]).
 personaje(mr_potatohead, [masculino, juguete, disney, original, modelo_3d, piezas_intercambiables]).
