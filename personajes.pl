@@ -6,14 +6,14 @@
 personaje(daisy_duck, [femenino, animal, disney, original, ave]).
 personaje(dutchess, [femenino, animal, disney, original, protagonista, realeza, felino]).
 personaje(flower, [femenino, animal, disney, novela_felix_salten, mejor_amigo_protagonista]).
-personaje(lady, [femenino, animal, disney, leyenda, protagonista, canino]).
+personaje(lady, [femenino, animal, disney, relato_ward_greene, protagonista, canino]).
 personaje(maid_marian, [femenino, animal, disney, folclore_ingles]).
 personaje(marie, [femenino, animal, disney, original, felino]).
 personaje(minnie_mouse, [femenino, animal, disney, original, roedor]).
 personaje(nala, [femenino, animal, disney, original, mejor_amigo_protagonista, felino]).
 personaje(ray, [masculino, animal, disney, original, mejor_amigo_protagonista, puede_volar]).
 personaje(bagheera, [masculino, animal, disney, novela_rudyard_kipling, felino]).
-personaje(baloo, [masculino, animal, disney, novela_rudyard_kipling, oso]).
+personaje(baloo, [masculino, animal, disney, novela_rudyard_kipling, mejor_amigo_protagonista, oso]).
 personaje(bambi, [masculino, animal, disney, novela_felix_salten, ciervo]).
 personaje(berlioz, [masculino, animal, disney, original, felino]).
 personaje(cheshire_cat, [masculino, animal, disney, novela_lewis_carroll, magico, felino]).
@@ -21,12 +21,12 @@ personaje(donald_duck, [masculino, animal, disney, original, protagonista, marin
 personaje(dumbo, [masculino, animal, disney, libro_helen_aberson, protagonista, puede_volar]).
 personaje(flounder, [masculino, animal, disney, cuento_andersen, mejor_amigo_protagonista, pez]).
 personaje(goofy, [masculino, animal, disney, original, protagonista, canino]).
-personaje(gus, [masculino, animal, disney, cuento_perrault, mejor_amigo_protagonista, roedor]).
+personaje(gus, [masculino, animal, disney, cuento_perrault, mejor_amigo_protagonista, roedor, gordo]).
 personaje(jaq, [masculino, animal, disney, cuento_perrault, mejor_amigo_protagonista, roedor]).
 personaje(jiminy_cricket, [masculino, animal, disney, novela_collodi, mejor_amigo_protagonista]).
 personaje(little_john, [masculino, animal, disney, folclore_ingles, oso]).
 personaje(louis, [masculino, animal, disney, original]).
-personaje(mickey_mouse, [masculino, animal, disney, original, protagonista, videojuego, roedor]).
+personaje(mickey_mouse, [masculino, animal, disney, original, protagonista, roedor, pantalon_rojo]).
 personaje(mushu, [masculino, animal, disney, leyenda, magico, mejor_amigo_protagonista]).
 personaje(o_malley, [masculino, animal, disney, original, protagonista, felino]).
 personaje(pegasus, [masculino, animal, disney, mitologia_griega, magico, caballo, puede_volar]).
@@ -34,6 +34,7 @@ personaje(pluto, [masculino, animal, disney, original, canino]).
 personaje(pumba, [masculino, animal, disney, original, cerdo]).
 personaje(rafiki, [masculino, animal, disney, original, magico, mono]).
 personaje(robin_hood, [masculino, animal, disney, folclore_ingles, protagonista]).
+
 personaje(scuttle, [masculino, animal, disney, cuento_andersen, ave, puede_volar]).
 personaje(sebastian, [masculino, animal, disney, cuento_andersen, valiente]).
 personaje(simba, [masculino, animal, disney, original, protagonista, realeza, valiente]).
